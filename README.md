@@ -1,4 +1,4 @@
-# Salazar
+# Salazar server
 
 Salazar is a personal blog which was created using React, Strapi, GraphQL API and Apollo Client v3.0.
 
@@ -12,3 +12,5 @@ Salazar has a couple of repositories which are client and server.<br />
 
 In the project directory, you can run:<br />
 `yarn develop`
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/salazar-server)](https://github.com/kevinadhiguna)
