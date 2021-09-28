@@ -18,8 +18,8 @@ services:
       CORS_ORIGIN: ${CORS_ORIGIN}
       ADMIN_JWT_SECRET: ${ADMIN_JWT_SECRET}
       # == Cloudinary configuration ==
-      CLOUD_NAME: ${CLOUD_NAME}
-      API_KEY: ${API_KEY}
-      API_SECRET: ${API_SECRET}
+      CLOUDINARY_NAME: ${CLOUDINARY_NAME}
+      CLOUDINARY_KEY: ${CLOUDINARY_KEY}
+      CLOUDINARY_SECRET: ${CLOUDINARY_SECRET}
     ports:
       - '1337:1337'
