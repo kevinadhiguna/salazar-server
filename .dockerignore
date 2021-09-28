@@ -1,0 +1,16 @@
+public/uploads
+.strapi-updater.json
+node_modules
+.cache
+
+.env
+.env.example
+
+debug.log
+
+.editoconfig
+
+.eslintignore
+.eslintrc
+
+.gitignore
