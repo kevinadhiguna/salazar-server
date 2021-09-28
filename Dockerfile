@@ -10,7 +10,6 @@ RUN yarn install --frozen-lockfile
 COPY favicon.ico .
 COPY public/robots.txt public/
 COPY public/index.html public/
-COPY admin/ admin/
 COPY extensions/ extensions/
 COPY api/ api/
 COPY config/ config/
