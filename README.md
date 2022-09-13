@@ -13,4 +13,5 @@ Salazar has a couple of repositories which are client and server.<br />
 In the project directory, you can run:<br />
 `yarn develop`
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/salazar-server)](https://github.com/kevinadhiguna)
+
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=salazar-server&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
