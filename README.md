@@ -14,8 +14,11 @@ Salazar has a couple of repositories which are client and server.<br />
 
 ## How to Run :
 
-In the project directory, you can run:<br />
-`yarn develop`
+In the project directory, you can run :
+
+```
+yarn develop
+```
 
 <br />
 
